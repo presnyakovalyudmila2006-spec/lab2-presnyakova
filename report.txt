@@ -8,3 +8,7 @@
 Создана ветка feature/update и выполнено слияние изменений через Pull Request.
 
 Изучены возможности GitHub Issues и Projects для управления задачами.
+Диаграмма ветвления:
+main
+  |
+  +-- feature/update (слита)
